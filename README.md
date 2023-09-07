@@ -46,6 +46,4 @@ NetProbe is designed for educational and network diagnostic purposes. Please ens
 
 NetProbe leverages the power of Nmap for operating system detection. We express our gratitude to the Nmap project for providing this essential tool for network exploration and security auditing.
 
-## License
 
-This script is provided under an open-source license. Refer to the source code for licensing details.
